@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"ch",
+				"chartData"
+			],
+			[
+				"tarea",
+				"tareaOutput"
+			],
+			[
+				"s",
+				"stateParams"
+			],
+			[
+				"http",
+				"httpHeader"
+			],
+			[
+				"app",
+				"appPadres"
+			],
+			[
+				"setBoo",
+				"setBool	Animator.*(name, value)"
+			],
+			[
+				"setFlo",
+				"setFloat	Animator.*(id, value)"
+			],
+			[
+				"loaded",
+				"loadedLevel	Application.*"
+			],
+			[
+				"GetB",
+				"GetButtonUp	Input.*(buttonName)"
+			],
+			[
+				"getBu",
+				"getButtonDown	Input.*(buttonName)"
+			],
+			[
+				"SetBo",
+				"SetBool	Animator.*(id, value)"
+			],
+			[
+				"getB",
+				"getBool	Animator.*(name)"
+			],
+			[
+				"setB",
+				"setBool	Animator.*(name, value)"
+			],
+			[
+				"delta",
+				"deltaAngle	Mathf.*(current, target)"
+			],
+			[
+				"del",
+				"deltaTime	AccelerationEvent.*"
+			],
+			[
+				"GetAx",
+				"GetAxisRaw	Input.*(axisName)"
+			],
+			[
+				"GetCompo",
+				"GetComponent	Component.*()"
+			],
+			[
+				"GetCom",
+				"GetComponent	GameObject.*(type)"
+			],
+			[
+				"floor",
+				"floorMask"
+			],
+			[
+				"Rig",
+				"Rigidbody	[class]"
+			],
+			[
+				"Vec",
+				"Vector3	[class]"
+			],
+			[
+				"con",
+				"contentWidth"
+			],
+			[
+				"new",
+				"display.newRect()"
+			],
+			[
+				"trigger",
+				"triggerName"
+			],
+			[
+				"ads",
+				"ads.hide()"
+			],
+			[
+				"removeAd",
+				"removeAdsButton"
+			],
+			[
+				"removeAds",
+				"removeAdsButton"
+			],
+			[
+				"tapStart",
+				"tapStartGroup"
+			],
+			[
+				"alp",
+				"alpha"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"menu",
+				"menuGuy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "schema.toml",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Development/Horizon.io/horizon-thinkmark"
+	],
+	"file_history":
+	[
+		"/Development/Notifikame/notifikameApp/www/js/controllers.js",
+		"/Development/Notifikame/notifikameApp/www/img/daenerys.jpg",
+		"/Development/Notifikame/notifikameApp/bower.json",
+		"/Development/Notifikame/notifikameApp/config.xml",
+		"/Development/Notifikame/notifikameApp/www/templates/menu.html",
+		"/Development/Notifikame/notifikameApp/www/css/style.css",
+		"/Development/Notifikame/notifikameApp/www/js/app.js",
+		"/Development/Notifikame/notifikameApp/www/templates/profile.html",
+		"/Development/Notifikame/notifikameApp/www/templates/emisores.html",
+		"/Development/Notifikame/notifikameApp/www/templates/config.html",
+		"/Development/Notifikame/notifikameApp/www/index.html",
+		"/Development/Notifikame/oldApp/www/css/notifika.css",
+		"/Development/Notifikame/notifikameApp/scss/ionic.app.scss",
+		"/Development/Notifikame/notifikameApp/www/lib/ionic/scss/_timeline.scss",
+		"/install/LumenLabs-Timeline/Timeline/www/lib/ionic/scss/_variables.scss",
+		"/Development/Notifikame/notifikameApp/www/lib/ionic/scss/_mixins.scss",
+		"/install/LumenLabs-Timeline/Timeline/www/lib/ionic/scss/_mixins.scss",
+		"/Development/Notifikame/notifikameApp/www/lib/ionic/scss/_variables.scss",
+		"/Development/Notifikame/notifikameApp/www/lib/ionic/scss/ionic.scss",
+		"/Development/Notifikame/oldApp/www/css/toastr.css",
+		"/Development/Notifikame/oldApp/www/css/jquery.mobile.iscrollview.css",
+		"/Development/Notifikame/oldApp/www/css/jquery.mobile.iscrollview-pull.css",
+		"/Development/Notifikame/notifikameApp/www/templates/emisor.html",
+		"/Development/Notifikame/notifikameApp/gulpfile.js",
+		"/Development/Tcontacto/TContactoServer/schemas.js",
+		"/Development/Tcontacto/TContactoServer/package.json",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/server.js",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/package.json",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/app.js",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/socket.io.js",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/push-config.json",
+		"/install/WhatsAppClone/Socket Code/TContactoServer/indexGroup.html",
+		"/Development/Admin.TContacto/tContactoWeb/www/index.html",
+		"/Development/Admin.TContacto/tContactoWeb/www/js/app.js",
+		"/Development/Admin.TContacto/tContactoWeb/config.xml",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/src/app/template/home.html",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/src/app/app.component.ts",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/src/app/home.component.ts",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/src/index.html",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/angular-cli.json",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/bower.json",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/package.json",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/src/app/template/public/landinghome.html",
+		"/Development/Admin.TContacto/aws-cognito-angular2-quickstart-master/public/css/starter.css",
+		"/Users/Carlos/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/install/aws-cognito-angular2-quickstart-master/src/app/index.ts",
+		"/install/aws-cognito-angular2-quickstart-master/package.json",
+		"/Development/Admin.TContacto/AdminTContacto/app/app.ts",
+		"/Development/Admin.TContacto/AdminTContacto/www/index.html",
+		"/Development/Admin.TContacto/AdminTContacto/gulpfile.js",
+		"/Development/Admin.TContacto/AdminTContacto/config.xml",
+		"/install/thinkvoting-tva-ios-b30a60b0bdc4/Code/TVA/TVA/Config/TVAConfig.m",
+		"/install/thinkvoting-tva-ios-b30a60b0bdc4/Code/TVA/TVA/Config/TVAConfig.h",
+		"/Development/Moments-master/README.md",
+		"/Development/Moments-master/Azure/service/package.json",
+		"/Development/Moments-master/Azure/service/table/Moment.json",
+		"/Development/Moments-master/Azure/service/api/friends.json",
+		"/Development/Moments-master/Azure/service/table/account.insert.js",
+		"/Development/Moments-master/Azure/service/table/readme.md",
+		"/Development/Tcontacto/theme/index.html",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/Helpers/ObservableExtensions.cs",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/Views/WelcomePage.xaml",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Views/BasePage.cs",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/App.xaml.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Views/WelcomePage.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Moments.cs",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/App.xaml",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/Views/BasePage.xaml.cs",
+		"/install/Moments-master/Moments - XAML/Moments.Shared/Views/BasePage.xaml",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/ViewModels/BaseViewModel.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Helpers/Fonts.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Helpers/Images.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Helpers/Info.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Helpers/ObservableExtensions.cs",
+		"/install/Moments-master/Moments - CSharp/Moments.Shared/Helpers/Styles.cs",
+		"/install/Moments-master/README.md",
+		"/Development/voteRegFE/www/js/authentication.js",
+		"/Development/voteRegFE/www/templates/menu.html",
+		"/Development/voteRegFE/www/templates/login.html",
+		"/Development/voteRegFE/www/index.html",
+		"/Development/voteRegFE/www/templates/welcome.html",
+		"/Development/voteRegFE/www/templates/stats.html",
+		"/Development/voteRegFE/www/templates/browse.html",
+		"/Development/voteRegFE/www/templates/playlists.html",
+		"/Development/voteRegFE/www/templates/export.html",
+		"/Development/voteRegFE/package.json",
+		"/Development/regVoteAngular/voteRegAng/package.json",
+		"/Users/Carlos/Library/Caches/com.binarynights.ForkLift2/0/default.json",
+		"/Development/phpwhatsapp/whastappbot/whatsapp/tests/whatsapp.php",
+		"/Development/phpwhatsapp/whastappbot/whatsapp/tests/TestWhatsProt.php",
+		"/Development/wasapbot/index.html",
+		"/Development/eaglesAppParents/www/js/controllers.js",
+		"/Development/eaglesAppParents/www/js/app.js",
+		"/Development/eaglesAppParents/www/js/services.js",
+		"/Development/eaglesAppParents/www/templates/notificaciones.html",
+		"/Development/eaglesAppParents/www/templates/detalle-notificacion.html",
+		"/Development/eaglesAppParents/www/js/notificaciones_service.js",
+		"/Development/eaglesAppParents/config.xml",
+		"/Development/eaglesAppParents/www/index.html",
+		"/Development/eaglesAppParents/plugins/com.phonegap.plugins.ParsePushPlugin/www/parse-push-plugin.js",
+		"/Development/eaglesAppParents/plugins/com.phonegap.plugins.ParsePushPlugin/src/android/ParsePushPluginReceiver.java",
+		"/Development/eaglesAppParents/www/js/authentication.js",
+		"/Development/eaglesAppParents/build-release.sh",
+		"/Development/eaglesAppParents/platforms/android/AndroidManifest.xml",
+		"/Development/eaglesAppParents/plugins/com.phonegap.plugins.ParsePushPlugin/README.md",
+		"/Development/eaglesAppParents/www/js/tabSlideBox.js",
+		"/Development/eaglesAppParents/plugins/com.phonegap.plugins.ParsePushPlugin/src/android/ParsePushPlugin.java",
+		"/Development/eaglesAppParents/platforms/android/src/com/gigantedigital/eaglesAppParents/MainActivity.java",
+		"/Development/eaglesAppParents/platforms/android/src/com/gigantedigital/eaglesAppParents/MainApplication.java",
+		"/Development/eaglesAppParents/platforms/android/src/com/phonegap/plugins/ParsePushPluginReceiver.java",
+		"/Development/eaglesAppParents/www/templates/pagos.html",
+		"/Development/eaglesAppParents/www/templates/pendientes.html",
+		"/Development/eaglesAppParents/www/templates/solicita_reunion.html",
+		"/Development/eaglesAppParents/platforms/android/build/outputs/apk/android-release-unsigned.apk",
+		"/Development/eaglesAppParents/platforms/android/project.properties",
+		"/Development/eaglesAppParents/www/js/loki-cordova-fs-adapter.js",
+		"/Development/eaglesAppParents/platforms/android/release-signing.properties",
+		"/Development/eaglesAppParents/platforms/android/ant.properties",
+		"/Development/eaglesAppParents/platforms/android/custom_rules.xml",
+		"/Development/eaglesAppParents/platforms/android/secure.properties",
+		"/Development/eaglesAppParents/www/templates/enrolled_popup.html",
+		"/Development/eaglesAppParents/www/css/style.css",
+		"/Development/eaglesAppParents/www/templates/archivo_estudiante.html",
+		"/Development/eaglesAppParents/www/templates/horarioacademico.html",
+		"/Development/eaglesEjercicios/eaglesParentsApp.sublime-project",
+		"/Development/eaglesAppParents/www/js/filters.js",
+		"/Development/eaglesAppParents/www/templates/menu.html",
+		"/Development/eaglesAppParents/www/templates/welcome.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/install/LumenLabs-Timeline/Timeline/www",
+			"/Development/Notifikame/oldApp",
+			"/Development/Admin.TContacto/tContactoWeb",
+			"/Development/Admin.TContacto/AdminTContacto",
+			"/install/Moments-master",
+			"/Development/eaglesAppParents",
+			"/Development/eaglesAppParents/www",
+			"/Development/eaglesAppParents",
+			"/Development/chromecast/spritedemo",
+			"/Development/Unity/Huawei/Assets",
+			"/Development/SocialFeed/social-feed-web/themes/flat-theme",
+			"/Development/hinchapelotas",
+			"/Development/games/HooliganAlone/trunk,/Development/Viva_dia_de_la_madre",
+			"/Development/games/HooliganAlone/trunk",
+			"/Development/games/HooliganAlone",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timeline-line-style",
+			"timeline-line-color",
+			"timeline",
+			"notifikame.com",
+			"http",
+			"5984",
+			"8000",
+			"VoteReg",
+			"require(",
+			"mainLabelStyle",
+			"BaseViewModel",
+			"momentsStack",
+			"mainLabelStyle",
+			"RegisterGlobalStyles",
+			"mainLabelStyle",
+			"FilterService",
+			"h3",
+			"gestion",
+			"event-detail",
+			"initDB()",
+			"GetAccountService",
+			"console.log",
+			"ionicViewService",
+			"$ionicViewService",
+			"ionicPopover",
+			"nextViewOptions",
+			"birthdays",
+			"registerDevice",
+			"starter",
+			"SpritedemoMessage",
+			"cast.games.common.sender.setup",
+			"appId",
+			"APP_ID",
+			"Status Text",
+			"midnight-blue",
+			"hidden-xs",
+			"50px",
+			"page",
+			"bottom",
+			"jquery.min.js",
+			"25px;",
+			"margin-top: 25px;",
+			"CENTRO MUNDIALISTA",
+			"www.hinchapelotas.islandofthemoon.com",
+			"hinchapelotas.com.bo",
+			"/var/www/vhosts/nuevatel.org/hinchapelotas/",
+			"nuevatel.org",
+			"nuevatelorg_hinchapelotas",
+			"embed",
+			"100px",
+			"400",
+			".png",
+			"body",
+			"iFrame-html",
+			"<iFrame",
+			"var e=",
+			"e={userID:t",
+			"var e={userID:t",
+			"boltcutter",
+			"btnInventario",
+			"gameOverDialog.png",
+			"btnOption",
+			"\"loop\"",
+			"HooliganRockGuitarraLoop",
+			"Party",
+			"LOC_Loading",
+			"Chap_sel_btn",
+			"newLabel",
+			"menu.png",
+			"Run1",
+			"Run1@2",
+			"getEntity(",
+			"Holligan_1",
+			"setCardinalPointAngle",
+			"easingx",
+			"data/",
+			"/data/",
+			"setPrimaryPath",
+			"moreButton",
+			"onPurchase",
+			"Ready",
+			"admob",
+			"ceilBack",
+			"ceilGroup",
+			"mainCeil",
+			"0,0,0",
+			"click",
+			".wav",
+			"Loc_",
+			"localization",
+			"store",
+			"loadValue",
+			"saveValue",
+			"tapStartGroup",
+			"ackText",
+			"bubble",
+			"huevoMenu",
+			"menuGuy",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hinchapelotas.islandofthemoon.com",
+			"/home/islandof/hinchapelotas/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "schema.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thinkmark.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
